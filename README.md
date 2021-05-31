@@ -6,7 +6,7 @@
 
 - 📝 I regularly write articles on [dev.to](dev.to)
 
-- 💬 Ask me about **vue, javascript, html, css, c and c++**
+- 💬 Ask me about **javascript, html, css, (c and c++)**
 
 - 📫 How to reach me **office@berre.org**
 
